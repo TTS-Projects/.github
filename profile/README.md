@@ -4,9 +4,8 @@ This repository contains the projects I have worked on during my time at Tech Ta
 
 ## Notable Repositories
 
------------------------
 
-#### Full-Stack Web Development - Instructor Templates
+### Full-Stack Web Development - Instructor Templates
 
 - **Overview:**
 Templates for instructors to use in the Full-Stack Web Development course (Used for day-to-day instruction).
@@ -15,14 +14,14 @@ Templates for instructors to use in the Full-Stack Web Development course (Used 
   - [**2022**](https://github.com/TTS-Projects/Full_Stack_Web_Development-2022_Instructor_Template.git)
   - [**2023**](https://github.com/TTS-Projects/Full_Stack_Web_Development-2023_Instructor_Template.git)
 
-#### TTS Projects
+### TTS Projects
 
 - **Overview**
 List of projects related to Tech Talent South Full Stack Development Bootcamp for end of course final project.
 - **Link:**
   - [**TTS Projects**](https://github.com/TTS-Projects/TTSProjects.git)
   
-#### Proposed Revisions
+### Proposed Revisions
 
 - **Overview**
 Proposed revisions to the Full-Stack Web Development course slides, assignments, and organization.
