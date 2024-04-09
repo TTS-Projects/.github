@@ -27,7 +27,7 @@ Proposed revisions to the Full-Stack Web Development course slides, assignments,
 - **Links:**
   - [**Intro_to_java_slide_solutions**](https://github.com/TTS-Projects/Intro_to_java_slide_solutions)
   - [**Java_Control_Flow_Assignment**](https://github.com/TTS-Projects/java_control_flow_assignment.git)
-  - **data_science(private)**
+  - **data_science (private)**
 
 ## Useful resources
 
@@ -37,3 +37,4 @@ Proposed revisions to the Full-Stack Web Development course slides, assignments,
 - [**GitHub Docs**](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [**Markdown Guide**](https://www.markdownguide.org/)
 - [**Profile**](https://github.com/garzarobm)
+- [**Email**](mailto:garzarobmtts@gmail.com)
