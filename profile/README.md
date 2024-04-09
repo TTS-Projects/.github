@@ -1,7 +1,6 @@
 # TTS-PROJECTS
 
-This repository contains the projects I have worked on during my time at Tech Talent South.
-
+_This repository contains the projects I have worked on during my time at Tech Talent South._
 ## Notable Repositories
 
 
